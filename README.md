@@ -1,6 +1,8 @@
 ## Step 1
-python3
-import code as x
+### In Terminal
+`python3`
+
+`import code as x`
 
 ## Step 2
 ### create
