@@ -6,7 +6,8 @@
 
 ## Step 2
 ### create
-`x.create("akp",30)`
+`c=x.create("akp",30)`
+`c`
 
 ### read
 `x.read("akp")`
