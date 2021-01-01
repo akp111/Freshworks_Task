@@ -6,12 +6,11 @@
 
 ## Step 2
 ### create
-`c = x.create("akp",30)`
-
-`c`
+`x.create("akp",30)`
 
 ### read
-`x.read("akp")`
+`c = x.read("akp")`
+`c`
 
 ### update
 `x.update("akp",60)`
